@@ -1,0 +1,7 @@
+## 2026-11-01 — Penyempurnaan HomePage
+- Permintaan: Memperbarui visual Beranda tanpa mengubah halaman lain.
+- Dikerjakan: Menata hero dan header; menambahkan komponen WorkCard untuk tujuh karya.
+- Hasil: Perubahan HomePage dan komponen berhasil dipush ke FlutterFlow.
+- Verifikasi: Validasi push berhasil; tampilan runtime belum diperiksa di Test Mode.
+- Belum selesai: Logo, foto landscape, cover karya, durasi, dan fungsi pencarian.
+- Referensi perubahan kode: [tautan commit atau milestone]
